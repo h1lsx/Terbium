@@ -1,6 +1,7 @@
 self.__uv$config = {
   prefix: "/bruhprox/bp/service/",
   bare: [
+    "https://bare.starttiw.org",
     "https://tomp.app/",
     "https://flow-works.me/bare/"
   ],
